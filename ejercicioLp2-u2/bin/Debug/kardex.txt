@@ -1,0 +1,13 @@
+3,14/07/2020 22:24:30,Aceite Primor,Entrada,0,5,0,5
+1,15/07/2020 11:20:14,Leche Gloria,Entrada,0,5,0,5
+2,15/07/2020 11:20:14,Atun florida,Entrada,0,5,0,5
+4,15/07/2020 11:20:14,Jugo,Entrada,0,5,0,5
+1,15/07/2020 12:31:51,Leche Gloria,Entrada,5,5,0,10
+1,15/07/2020 12:32:41,Leche Gloria,Entrada,10,5,0,15
+2,15/07/2020 12:33:17,Atun florida,Entrada,5,5,0,10
+4,15/07/2020 12:34:17,Jugo,Entrada,5,10,0,15
+2,16/07/2020 15:52:48,Atun florida,Entrada,10,5,0,15
+2,16/07/2020 15:52:54,Atun florida,Entrada,15,10,0,25
+2,16/07/2020 15:53:01,Atun florida,Salida,25,0,5,20
+3,16/07/2020 15:53:14,Aceite Primor,Entrada,5,5,0,10
+3,16/07/2020 15:53:19,Aceite Primor,Salida,10,0,5,5

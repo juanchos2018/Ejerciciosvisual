@@ -1,0 +1,4 @@
+CURRICUM_VITAE.docx,.docx,D:\Disco local\disco\CURRICUM_VITAE.docx,85624,18/02/2020 16:58:54,19/07/2019 10:05:11
+factura.png,.png,D:\Disco local\disco\factura.png,290037,18/02/2020 16:58:54,25/12/2019 18:10:27
+Informe_Tecnico_MBSA.docx,.docx,C:\Users\usuario\Downloads\Informe_Tecnico_MBSA.docx,17172,03/07/2020 18:42:39,03/07/2020 18:42:42,03/07/2020 18:42:42
+fondoUPT.jpg,.jpg,C:\Users\usuario\Downloads\fondoUPT.jpg,45241,04/07/2020 17:18:58,04/07/2020 17:18:58,04/07/2020 17:18:58
